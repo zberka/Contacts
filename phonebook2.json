@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Zdenek",
+    "surname": "Berka",
+    "_birthDate": "345",
+    "_gender": "M",
+    "_number": "34523",
+    "timeCreated": "2023-11-16T17:51:30.5019152",
+    "timeLastEdit": "2023-11-16T17:51:30.5029152",
+    "birthDate": "345",
+    "gender": "M",
+    "number": "34523"
+  },
+  {
+    "organizationName": "PAUL FR",
+    "address": "Chodov",
+    "_number": "2345",
+    "timeCreated": "2023-11-16T17:51:52.5808791",
+    "timeLastEdit": "2023-11-16T17:51:52.5808791",
+    "number": "2345"
+  },
+  {
+    "organizationName": "New Car Shop",
+    "address": "Address: Wall St. 3 ",
+    "_number": "+0 (123) 456-789-9999",
+    "timeCreated": "2023-11-16T17:52:36.3317449",
+    "timeLastEdit": "2023-11-16T17:52:36.3317449",
+    "number": "+0 (123) 456-789-9999"
+  },
+  {
+    "organizationName": "Decent Pizza Shop",
+    "address": "Praha ",
+    "_number": "777",
+    "timeCreated": "2023-11-16T17:52:36.3317449",
+    "timeLastEdit": "2023-11-16T17:52:36.3317449",
+    "number": "777"
+  },
+  {
+    "organizationName": "Central Bank",
+    "address": "Praha ",
+    "_number": "777",
+    "timeCreated": "2023-11-16T17:52:36.3317449",
+    "timeLastEdit": "2023-11-16T17:52:36.3317449",
+    "number": "777"
+  },  {
+  "name": "John",
+  "surname": "Smith",
+  "_birthDate": "345",
+  "_gender": "M",
+  "_number": "34523",
+  "timeCreated": "2023-11-16T17:51:30.5019152",
+  "timeLastEdit": "2023-11-16T17:51:30.5029152",
+  "birthDate": "345",
+  "gender": "M",
+  "number": "34523"
+},  {
+  "name": "Alice Bank ",
+  "surname": "Wonderlanded",
+  "_birthDate": "345",
+  "_gender": "F",
+  "_number": "+123123 (123) 12-23-34-45",
+  "timeCreated": "2023-11-16T17:51:30.5019152",
+  "timeLastEdit": "2023-11-16T17:51:30.5029152",
+  "birthDate": "345",
+  "gender": "M",
+  "number": "+123123 (123) 12-23-34-45"
+}
+]
